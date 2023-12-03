@@ -16,7 +16,7 @@ D-ID
 - script de texto apra ser reproduzido com o movimento da boca
 
 ## 🚀 Resultados
-// link
+<a src="https://github.com/leostella97/lab-natty-or-not/tree/main/projeto">Link do vídeo do projeto</a>
 
 ## 💭 Reflexão (Opcional)
 Estou familiarizado com o uso de IAs
